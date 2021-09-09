@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/kszabo10.lwc-ktd6gwyw",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve wWMriPgJ1VhezISy62ol --open"
+  }
+}
